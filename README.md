@@ -1,2 +1,2 @@
-# Trilha java DIO - Estruturas de Dados e API de Stremas
+# Trilha DIO - Estruturas de Dados e API de Streams em java
 
